@@ -29,6 +29,12 @@
 ## 🛠️ Mis Skills
 
 -Manipulacion en equipos, Hardware y firmware
+
+
 -Experiencia previa en varios campos de informatica
+
+
 -Moderador de varios servidores de paginas de comunicacion
+
+
 -Claredad al hablar y fluidez
