@@ -16,9 +16,9 @@
 <br><br>
 
 - :school: Hola soy `Ivan` En estudiante Ciclo mdio de Sistemas icroinformaticos y Redes En Instituto Rafael Campalans.
-- :technologist: Me encanta trabajar con equipos, mas concretamente con el hardware  `Problem`.
-- :computer: Soy un disciplinado en el mundo de la tecnologia. `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: Me gusta aprender siempre cosas de gente que sabe mas que yo `Computer Science` and `Software Engineering`.
+- :technologist: Me encanta trabajar con equipos, mas concretamente con el hardware.
+- :computer: Soy un disciplinado en el mundo de la tecnologia. 
+- :student: Me gusta aprender siempre cosas de gente que sabe mas que yo.
 
 - :boom: Puedes visitar mi web de linkedin! [My Linkedin](https://www.linkedin.com/in/ivan-linares-crespo-b09a833b3/).
 <br>
