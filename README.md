@@ -20,7 +20,7 @@
 - :computer: Soy un disciplinado en el mundo de la tecnologia. `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: Me gusta aprender siempre cosas de gente que sabe mas que yo `Computer Science` and `Software Engineering`.
 
-- :boom: Puedes visitar mi web de linkedin! [MY WEBSITE](https://www.linkedin.com/in/ivan-linares-crespo-b09a833b3/).
+- :boom: Puedes visitar mi web de linkedin! [My Linkedin](https://www.linkedin.com/in/ivan-linares-crespo-b09a833b3/).
 <br>
 
 
