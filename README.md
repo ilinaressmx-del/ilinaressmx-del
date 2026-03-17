@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: Hola soy `Ivan` En estudiante Ciclo mdio de Sistemas icroinformaticos y Redes(http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) En [Instituto Rafael Campalans](http://suez.edu.eg/ar/).
+- :school: Hola soy `Ivan` En estudiante Ciclo mdio de Sistemas icroinformaticos y Redes En [Instituto Rafael Campalans](http://suez.edu.eg/ar/).
 - :technologist: Me encanta trabajar con equipos, mas concretamente con el hardware  `Problem`.
 - :computer: Soy un disciplinado en el mundo de la tecnologia. `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: Me gusta aprender siempre cosas de gente que sabe mas que yo `Computer Science` and `Software Engineering`.
